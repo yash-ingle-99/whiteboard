@@ -1,4 +1,3 @@
-powershell@'
 # Collaborative Whiteboard
 
 A real-time collaborative whiteboard application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and Socket.io for live collaboration.
@@ -75,4 +74,3 @@ Collaboration
 
 See other users' cursors in real-time
 All drawing actions are synchronized instantly
-'@ | Out-File -FilePath "README.md" -Encoding UTF8
